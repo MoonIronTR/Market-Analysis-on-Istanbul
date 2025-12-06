@@ -1,0 +1,960 @@
+﻿ilce;mahalle;nufus
+Adalar;Burgazada Mahallesi;1620
+Adalar;Heybeliada Mahallesi;4469
+Adalar;Kınalıada Mahallesi;1987
+Adalar;Maden Mahallesi;4914
+Sarıyer;Maden Mahallesi;14116
+Adalar;Nizam Mahallesi;3989
+Arnavutköy;Adnan Menderes Mahallesi;4693
+Arnavutköy;Anadolu Mahallesi;47828
+Tuzla;Anadolu Mahallesi;834
+Arnavutköy;Arnavutköy Merkez Mahallesi;23116
+Arnavutköy;Atatürk Mahallesi;10566
+Ataşehir;Atatürk Mahallesi;32915
+Büyükçekmece;Atatürk Mahallesi;17102
+Çatalca;Atatürk Mahallesi;1443
+Esenyurt;Atatürk Mahallesi;15633
+Küçükçekmece;Atatürk Mahallesi;41529
+Sancaktepe;Atatürk Mahallesi;31969
+Ümraniye;Atatürk Mahallesi;24016
+Arnavutköy;Baklalı Mahallesi;866
+Arnavutköy;Balaban Mahallesi;458
+Arnavutköy;Boğazköy İstiklal Mahallesi;12829
+Arnavutköy;Bolluca Mahallesi;8446
+Arnavutköy;Boyalık Mahallesi;758
+Arnavutköy;Çilingir Mahallesi;1200
+Arnavutköy;Deliklikaya Mahallesi;8786
+Arnavutköy;Dursunköy Mahallesi;433
+Arnavutköy;Durusu Mahallesi;756
+Arnavutköy;Fatih Mahallesi;3986
+Bağcılar;Fatih Mahallesi;40177
+Beykoz;Fatih Mahallesi;4251
+Büyükçekmece;Fatih Mahallesi;18432
+Çatalca;Fatih Mahallesi;1378
+Esenler;Fatih Mahallesi;40838
+Esenyurt;Fatih Mahallesi;27586
+Küçükçekmece;Fatih Mahallesi;10921
+Pendik;Fatih Mahallesi;21292
+Sancaktepe;Fatih Mahallesi;38220
+Silivri;Fatih Mahallesi;6783
+Sultanbeyli;Fatih Mahallesi;20922
+Tuzla;Fatih Mahallesi;1153
+Arnavutköy;Hacımaşlı Mahallesi;671
+Arnavutköy;Hadımköy Mahallesi;27328
+Arnavutköy;Haraççı Mahallesi;11474
+Arnavutköy;Hastane Mahallesi;10966
+Arnavutköy;Hicret Mahallesi;4141
+Arnavutköy;İmrahor Mahallesi;12088
+Arnavutköy;İslambey Mahallesi;27179
+Eyüpsultan;İslambey Mahallesi;16075
+Arnavutköy;Karaburun Mahallesi;1903
+Arnavutköy;Karlıbayır Mahallesi;11086
+Arnavutköy;Mareşal Fevzi Çakmak Mahallesi;7116
+Arnavutköy;Mavigöl Mahallesi;10249
+Arnavutköy;Mehmet Akif Ersoy Mahallesi;7429
+Esenyurt;Mehmet Akif Ersoy Mahallesi;26327
+Kâğıthane;Mehmet Akif Ersoy Mahallesi;12173
+Üsküdar;Mehmet Akif Ersoy Mahallesi;18615
+Arnavutköy;Mustafa Kemal Paşa Mahallesi;17766
+Arnavutköy;Nenehatun Mahallesi;11199
+Arnavutköy;Ömerli Mahallesi;7471
+Çekmeköy;Ömerli Mahallesi;5702
+Arnavutköy;Sazlıbosna Mahallesi;1054
+Arnavutköy;Taşoluk Mahallesi;10345
+Arnavutköy;Tayakadın Mahallesi;3716
+Arnavutköy;Terkos Mahallesi;926
+Arnavutköy;Yassıören Mahallesi;675
+Arnavutköy;Yavuz Selim Mahallesi;12961
+Bağcılar;Yavuz Selim Mahallesi;27178
+Beykoz;Yavuz Selim Mahallesi;5516
+Esenler;Yavuz Selim Mahallesi;3471
+Sultanbeyli;Yavuz Selim Mahallesi;20371
+Arnavutköy;Yeniköy Mahallesi;1548
+Sarıyer;Yeniköy Mahallesi;14718
+Şile;Yeniköy Mahallesi;486
+Arnavutköy;Yeşilbayır Mahallesi;611
+Arnavutköy;Yunus Emre Mahallesi;20245
+Esenyurt;Yunus Emre Mahallesi;22601
+Sancaktepe;Yunus Emre Mahallesi;28750
+Sultangazi;Yunus Emre Mahallesi;52061
+Ataşehir;Aşıkveysel Mahallesi;12578
+Ataşehir;Barbaros Mahallesi;30731
+Bağcılar;Barbaros Mahallesi;20085
+Üsküdar;Barbaros Mahallesi;16628
+Ataşehir;Esatpaşa Mahallesi;32669
+Ataşehir;Ferhatpaşa Mahallesi;20464
+Çatalca;Ferhatpaşa Mahallesi;28400
+Ataşehir;Fetih Mahallesi;11483
+Ataşehir;İçerenköy Mahallesi;70199
+Ataşehir;İnönü Mahallesi;31442
+Bağcılar;İnönü Mahallesi;22714
+Esenyurt;İnönü Mahallesi;26536
+Küçükçekmece;İnönü Mahallesi;71925
+Sancaktepe;İnönü Mahallesi;24459
+Şişli;İnönü Mahallesi;3107
+Ataşehir;Kayışdağı Mahallesi;41962
+Ataşehir;Küçükbakkalköy Mahallesi;29256
+Ataşehir;Mevlana Mahallesi;17639
+Esenyurt;Mevlana Mahallesi;14701
+Gaziosmanpaşa;Mevlana Mahallesi;23306
+Sancaktepe;Mevlana Mahallesi;22313
+Ataşehir;Mimar Sinan Mahallesi;9657
+Çekmeköy;Mimar Sinan Mahallesi;26750
+Esenler;Mimar Sinan Mahallesi;13184
+Eyüpsultan;Mimar Sinan Mahallesi;7490
+Silivri;Mimar Sinan Mahallesi;28846
+Sultanbeyli;Mimar Sinan Mahallesi;26709
+Tuzla;Mimar Sinan Mahallesi;28607
+Üsküdar;Mimar Sinan Mahallesi;11344
+Ataşehir;Mustafa Kemal Mahallesi;13738
+Ataşehir;Örnek Mahallesi;27068
+Esenyurt;Örnek Mahallesi;20222
+Ataşehir;Yeni Çamlıca Mahallesi;12759
+Ataşehir;Yenisahra Mahallesi;9429
+Ataşehir;Yenişehir Mahallesi;10877
+Beyoğlu;Yenişehir Mahallesi;5266
+Pendik;Yenişehir Mahallesi;65637
+Avcılar;Ambarlı Mahallesi;34420
+Avcılar;Cihangir Mahallesi;61666
+Beyoğlu;Cihangir Mahallesi;3212
+Avcılar;Denizköşkler Mahallesi;40028
+Avcılar;Firuzköy Mahallesi;23842
+Avcılar;Gümüşpala Mahallesi;36640
+Avcılar;Merkez Mahallesi;27127
+Bağcılar;Merkez Mahallesi;26835
+Beykoz;Merkez Mahallesi;5819
+Çekmeköy;Merkez Mahallesi;32603
+Esenyurt;Merkez Mahallesi;32537
+Eyüpsultan;Merkez Mahallesi;11706
+Gaziosmanpaşa;Merkez Mahallesi;30063
+Güngören;Merkez Mahallesi;41855
+Kâğıthane;Merkez Mahallesi;33977
+Şişli;Merkez Mahallesi;12906
+Avcılar;Mustafa Kemalpaşa Mahallesi;45213
+Avcılar;Tahtakale Mahallesi;66752
+Fatih;Tahtakale Mahallesi;13
+Avcılar;Üniversite Mahallesi;29932
+Avcılar;Yeşilkent Mahallesi;75314
+Esenyurt;Yeşilkent Mahallesi;36488
+Bağcılar;100. Yıl Mahallesi;45610
+Bağcılar;15 Temmuz Mahallesi;50175
+Esenler;15 Temmuz Mahallesi;9809
+Bağcılar;Bağlar Mahallesi;16993
+Bağcılar;Çınar Mahallesi;32974
+Esenyurt;Çınar Mahallesi;31640
+Maltepe;Çınar Mahallesi;20702
+Bağcılar;Demirkapı Mahallesi;54498
+Bağcılar;Fevzi Çakmak Mahallesi;32364
+Bahçelievler;Fevzi Çakmak Mahallesi;23271
+Esenler;Fevzi Çakmak Mahallesi;30675
+Gaziosmanpaşa;Fevzi Çakmak Mahallesi;23068
+Küçükçekmece;Fevzi Çakmak Mahallesi;26474
+Pendik;Fevzi Çakmak Mahallesi;38410
+Bağcılar;Göztepe Mahallesi;40585
+Beykoz;Göztepe Mahallesi;9388
+Kadıköy;Göztepe Mahallesi;38613
+Bağcılar;Güneşli Mahallesi;44823
+Bağcılar;Hürriyet Mahallesi;25376
+Bahçelievler;Hürriyet Mahallesi;44511
+Büyükçekmece;Hürriyet Mahallesi;23034
+Esenyurt;Hürriyet Mahallesi;28560
+Gaziosmanpaşa;Hürriyet Mahallesi;27363
+Kâğıthane;Hürriyet Mahallesi;20081
+Kartal;Hürriyet Mahallesi;50253
+Bağcılar;Kâzım Karabekir Mahallesi;26664
+Esenler;Kazım Karabekir Mahallesi;33766
+Gaziosmanpaşa;Kazım Karabekir Mahallesi;42953
+Ümraniye;Kazım Karabekir Mahallesi;15745
+Bağcılar;Kemalpaşa Mahallesi;31892
+Fatih;Kemalpaşa Mahallesi;603
+Küçükçekmece;Kemalpaşa Mahallesi;14351
+Bağcılar;Kirazlı Mahallesi;39528
+Bağcılar;Mahmutbey Mahallesi;25326
+Bağcılar;Sancaktepe Mahallesi;19196
+Bağcılar;Yenigün Mahallesi;20790
+Bağcılar;Yenimahalle Mahallesi;33927
+Bakırköy;Yenimahalle Mahallesi;6328
+Büyükçekmece;Yenimahalle Mahallesi;2553
+Bağcılar;Yıldıztepe Mahallesi;35884
+Bahçelievler;Bahçelievler Mahallesi;57559
+Büyükçekmece;Bahçelievler Mahallesi;4458
+Pendik;Bahçelievler Mahallesi;12699
+Üsküdar;Bahçelievler Mahallesi;23334
+Bahçelievler;Çobançeşme Mahallesi;30609
+Bahçelievler;Cumhuriyet Mahallesi;38835
+Beykoz;Cumhuriyet Mahallesi;1966
+Beylikdüzü;Cumhuriyet Mahallesi;26003
+Büyükçekmece;Cumhuriyet Mahallesi;8404
+Çekmeköy;Cumhuriyet Mahallesi;17235
+Esenyurt;Cumhuriyet Mahallesi;14338
+Kartal;Cumhuriyet Mahallesi;23697
+Küçükçekmece;Cumhuriyet Mahallesi;52736
+Sarıyer;Cumhuriyet Mahallesi;10765
+Silivri;Cumhuriyet Mahallesi;9568
+Şişli;Cumhuriyet Mahallesi;7541
+Sultangazi;Cumhuriyet Mahallesi;14173
+Üsküdar;Cumhuriyet Mahallesi;37895
+Bahçelievler;Kocasinan Merkez Mahallesi;70475
+Bahçelievler;Şirinevler Mahallesi;53894
+Bahçelievler;Siyavuşpaşa Mahallesi;60059
+Bahçelievler;Soğanlı Mahallesi;65254
+Bahçelievler;Yenibosna Merkez Mahallesi;36763
+Bahçelievler;Zafer Mahallesi;78856
+Esenyurt;Zafer Mahallesi;22852
+Bakırköy;Ataköy 1. Kısım Mahallesi;1573
+Bakırköy;Ataköy 2-5-6. Kısım Mahallesi;14180
+Bakırköy;Ataköy 3-4-11. Kısım Mahallesi;7672
+Bakırköy;Ataköy 7-8-9-10. Kısım Mahallesi;26506
+Bakırköy;Basınköy Mahallesi;5940
+Bakırköy;Cevizlik Mahallesi;5108
+Bakırköy;Kartaltepe Mahallesi;34866
+Bayrampaşa;Kartaltepe Mahallesi;43124
+Küçükçekmece;Kartaltepe Mahallesi;13560
+Bakırköy;Osmaniye Mahallesi;22495
+Bakırköy;Sakızağacı Mahallesi;8557
+Bakırköy;Şenlikköy Mahallesi;27991
+Bakırköy;Yeşilköy Mahallesi;24958
+Bakırköy;Yeşilyurt Mahallesi;8393
+Bakırköy;Zeytinlik Mahallesi;5097
+Bakırköy;Zuhuratbaba Mahallesi;20229
+Başakşehir;Altınşehir Mahallesi;26909
+Ümraniye;Altınşehir Mahallesi;28476
+Başakşehir;Bahçeşehir 1. Kısım Mahallesi;37332
+Başakşehir;Bahçeşehir 2. Kısım Mahallesi;61602
+Başakşehir;Başak Mahallesi;70658
+Çatalca;Başak Mahallesi;422
+Başakşehir;Başakşehir Mahallesi;71244
+Başakşehir;Güvercintepe Mahallesi;76217
+Başakşehir;Kayabaşı Mahallesi;112367
+Başakşehir;Şahintepe Mahallesi;31567
+Başakşehir;Şamlar Mahallesi;1248
+Başakşehir;Ziya Gökalp Mahallesi;31210
+Bayrampaşa;Altıntepsi Mahallesi;28855
+Bayrampaşa;Cevatpaşa Mahallesi;18555
+Bayrampaşa;İsmet Paşa Mahallesi;14710
+Bayrampaşa;Kocatepe Mahallesi;20414
+Beyoğlu;Kocatepe Mahallesi;1395
+Bayrampaşa;Muratpaşa Mahallesi;32944
+Bayrampaşa;Orta Mahallesi;15180
+Kartal;Orta Mahallesi;18221
+Pendik;Orta Mahallesi;3317
+Tuzla;Orta Mahallesi;11305
+Bayrampaşa;Terazidere Mahallesi;15206
+Bayrampaşa;Vatan Mahallesi;9339
+Bayrampaşa;Yenidoğan Mahallesi;17941
+Gaziosmanpaşa;Yenidoğan Mahallesi;7570
+Sancaktepe;Yenidoğan Mahallesi;24839
+Zeytinburnu;Yenidoğan Mahallesi;9632
+Bayrampaşa;Yıldırım Mahallesi;52035
+Beşiktaş;Abbasağa Mahallesi;4157
+Beşiktaş;Akat Mahallesi;12328
+Beşiktaş;Arnavutköy Mahallesi;3409
+Beşiktaş;Balmumcu Mahallesi;2915
+Beşiktaş;Bebek Mahallesi;5300
+Beşiktaş;Cihannüma Mahallesi;3521
+Beşiktaş;Dikilitaş Mahallesi;14787
+Beşiktaş;Etiler Mahallesi;10419
+Beşiktaş;Gayrettepe Mahallesi;12786
+Beşiktaş;Konaklar Mahallesi;15878
+Beşiktaş;Kültür Mahallesi;4435
+Beşiktaş;Kuruçeşme Mahallesi;2787
+Beşiktaş;Levazım Mahallesi;6017
+Beşiktaş;Levent Mahallesi;2766
+Beşiktaş;Mecidiye Mahallesi;9710
+Sultanbeyli;Mecidiye Mahallesi;21859
+Beşiktaş;Muradiye Mahallesi;4505
+Beşiktaş;Nisbetiye Mahallesi;10943
+Beşiktaş;Ortaköy Mahallesi;9121
+Silivri;Ortaköy Mahallesi;4535
+Beşiktaş;Sinanpaşa Mahallesi;2162
+Beşiktaş;Türkali Mahallesi;9615
+Beşiktaş;Ulus Mahallesi;6761
+Büyükçekmece;Ulus Mahallesi;16471
+Beşiktaş;Vişnezade Mahallesi;8337
+Beşiktaş;Yıldız Mahallesi;4605
+Beykoz;Acarlar Mahallesi;8915
+Beykoz;Akbaba Mahallesi;2695
+Beykoz;Alibahadır Mahallesi;781
+Beykoz;Anadolufeneri Mahallesi;687
+Beykoz;Anadolu Hisarı Mahallesi;2499
+Beykoz;Anadolu Kavağı Mahallesi;1262
+Beykoz;Baklacı Mahallesi;3181
+Beykoz;Bozhane Mahallesi;464
+Beykoz;Çamlıbahçe Mahallesi;6133
+Beykoz;Çengeldere Mahallesi;5414
+Beykoz;Çiftlik Mahallesi;5740
+Beykoz;Çiğdem Mahallesi;10888
+Beykoz;Çubuklu Mahallesi;20302
+Beykoz;Dereseki Mahallesi;1648
+Beykoz;Elmalı Mahallesi;3122
+Beykoz;Göksu Mahallesi;2320
+Şile;Göksu Mahallesi;310
+Beykoz;Göllü Mahallesi;252
+Beykoz;Görele Mahallesi;2070
+Beykoz;Gümüşsuyu Mahallesi;12996
+Beyoğlu;Gümüşsuyu Mahallesi;1981
+Beykoz;İncirköy Mahallesi;16602
+Beykoz;İshaklı Mahallesi;1364
+Beykoz;Kanlıca Mahallesi;3819
+Beykoz;Kavacık Mahallesi;22138
+Beykoz;Kaynarca Mahallesi;821
+Pendik;Kaynarca Mahallesi;46570
+Beykoz;Kılıçlı Mahallesi;540
+Beykoz;Mahmutşevketpaşa Mahallesi;1817
+Beykoz;Öğümce Mahallesi;493
+Beykoz;Örnekköy Mahallesi;4299
+Beykoz;Ortaçeşme Mahallesi;7754
+Beykoz;Paşabahçe Mahallesi;3677
+Beykoz;Paşamandıra Mahallesi;1374
+Beykoz;Polonezköy Mahallesi;388
+Beykoz;Poyrazköy Mahallesi;881
+Beykoz;Riva Mahallesi;3555
+Beykoz;Rüzgarlıbahçe Mahallesi;7852
+Beykoz;Soğuksu Mahallesi;10796
+Beykoz;Tokatköy Mahallesi;13445
+Beykoz;Yalıköy Mahallesi;5234
+Çatalca;Yalıköy Mahallesi;1506
+Beykoz;Yeni Mahalle Mahallesi;19200
+Gaziosmanpaşa;Yeni Mahalle Mahallesi;35600
+Küçükçekmece;Yeni Mahalle Mahallesi;20150
+Beykoz;Zerzavatçı Mahallesi;1082
+Beylikdüzü;Adnan Kahveci Mahallesi;110707
+Beylikdüzü;Barış Mahallesi;56311
+Beylikdüzü;Büyükşehir Mahallesi;21280
+Beylikdüzü;Dereağzı Mahallesi;20733
+Beylikdüzü;Gürpınar Mahallesi;20753
+Beylikdüzü;Kavaklı Mahallesi;63026
+Beylikdüzü;Marmara Mahallesi;31737
+Beylikdüzü;Sahil Mahallesi;7498
+Beylikdüzü;Yakuplu Mahallesi;57229
+Beyoğlu;Arap Cami Mahallesi;97
+Beyoğlu;Asmalı Mescit Mahallesi;417
+Beyoğlu;Bedrettin Mahallesi;576
+Beyoğlu;Bereketzade Mahallesi;391
+Beyoğlu;Bostan Mahallesi;1852
+Beyoğlu;Bülbül Mahallesi;2789
+Beyoğlu;Camiikebir Mahallesi;2498
+Beyoğlu;Çatma Mescit Mahallesi;2025
+Beyoğlu;Çukur Mahallesi;1862
+Beyoğlu;Emekyemez Mahallesi;177
+Beyoğlu;Evliya Çelebi Mahallesi;240
+Tuzla;Evliya Çelebi Mahallesi;14403
+Beyoğlu;Fetihtepe Mahallesi;12380
+Beyoğlu;Firuzağa Mahallesi;3684
+Beyoğlu;Hacıahmet Mahallesi;15236
+Beyoğlu;Hacımimi Mahallesi;1150
+Beyoğlu;Halıcıoğlu Mahallesi;12348
+Beyoğlu;Hüseyinağa Mahallesi;472
+Beyoğlu;İstiklal Mahallesi;5077
+Esenyurt;İstiklal Mahallesi;18844
+Ümraniye;İstiklal Mahallesi;48067
+Beyoğlu;Kalyoncu Kulluğu Mahallesi;2346
+Beyoğlu;Kamer Hatun Mahallesi;667
+Beyoğlu;Kaptanpaşa Mahallesi;18800
+Şişli;Kaptanpaşa Mahallesi;3202
+Beyoğlu;Keçeci Piri Mahallesi;13602
+Beyoğlu;Kılıçali Paşa Mahallesi;2136
+Beyoğlu;Küçük Piyale Mahallesi;8394
+Beyoğlu;Kulaksız Mahallesi;8910
+Beyoğlu;Kuloğlu Mahallesi;1357
+Beyoğlu;Ömer Avni Mahallesi;1964
+Beyoğlu;Örnektepe Mahallesi;11185
+Beyoğlu;Piyalepaşa Mahallesi;20663
+Beyoğlu;Pürtelaş Hasan Efendi Mahallesi;1787
+Beyoğlu;Şahkulu Mahallesi;684
+Beyoğlu;Şehit Muhtar Mahallesi;1141
+Beyoğlu;Sururi Mehmet Efendi Mahallesi;3929
+Beyoğlu;Sütlüce Mahallesi;12669
+Beyoğlu;Tomtom Mahallesi;2362
+Beyoğlu;Yahya Kahya Mahallesi;3326
+Büyükçekmece;19 Mayıs Mahallesi;8468
+Kadıköy;19 Mayıs Mahallesi;31864
+Şişli;19 Mayıs Mahallesi;10559
+Büyükçekmece;Ahmediye Mahallesi;1063
+Üsküdar;Ahmediye Mahallesi;8411
+Büyükçekmece;Alkent 2000 Mahallesi;8122
+Büyükçekmece;Çakmaklı Mahallesi;5517
+Büyükçekmece;Celaliye Mahallesi;7728
+Büyükçekmece;Dizdariye Mahallesi;6388
+Büyükçekmece;Ekinoba Mahallesi;14790
+Büyükçekmece;Güzelce Mahallesi;10613
+Büyükçekmece;Kamiloba Mahallesi;9266
+Büyükçekmece;Karaağaç Mahallesi;5981
+Büyükçekmece;Kumburgaz Mahallesi;9424
+Büyükçekmece;Mimaroba Mahallesi;20262
+Büyükçekmece;Mimarsinan Mahallesi;9382
+Büyükçekmece;Murat Çesme Mahallesi;19099
+Büyükçekmece;Pınartepe Mahallesi;22993
+Büyükçekmece;Sinanoba Mahallesi;15883
+Büyükçekmece;Türkoba Mahallesi;15095
+Çatalca;Akalan Mahallesi;1169
+Çatalca;Aydınlar Mahallesi;858
+Çekmeköy;Aydınlar Mahallesi;20179
+Çatalca;Bahşayiş Mahallesi;408
+Çatalca;Belgrat Mahallesi;398
+Çatalca;Çakıl Mahallesi;2765
+Çatalca;Çanakça Mahallesi;3020
+Çatalca;Celepköy Mahallesi;298
+Çatalca;Çiftlikköy;1946
+Çatalca;Dağyenice Mahallesi;811
+Çatalca;Elbasan Mahallesi;667
+Çatalca;Gökçeali Mahallesi;2029
+Çatalca;Gümüşpınar Mahallesi;929
+Kartal;Gümüşpınar Mahallesi;26666
+Çatalca;Hallaçlı Mahallesi;1452
+Çatalca;Hisarbeyli Mahallesi;361
+Çatalca;İhsaniye Mahallesi;1875
+Eyüpsultan;İhsaniye Mahallesi;185
+Çatalca;İnceğiz Mahallesi;1027
+Çatalca;İzzettin Mahallesi;1304
+Çatalca;Kabakça Mahallesi;2014
+Çatalca;Kaleiçi Mahallesi;7617
+Çatalca;Kalfa Mahallesi;879
+Çatalca;Karacaköy Merkez Mahallesi;2589
+Çatalca;Karamandere Mahallesi;626
+Şile;Karamandere Mahallesi;384
+Çatalca;Kestanelik Mahallesi;2500
+Çatalca;Kızılcaali Mahallesi;210
+Çatalca;Muratbey Merkez Mahallesi;1400
+Çatalca;Nakkaş Mahallesi;803
+Çatalca;Oklalı Mahallesi;1513
+Çatalca;Örcünlü Mahallesi;519
+Çatalca;Örencik Mahallesi;1012
+Çatalca;Ormanlı Mahallesi;1072
+Çatalca;Ovayenice Mahallesi;1238
+Çatalca;Subaşı Mahallesi;1532
+Çatalca;Yaylacık Mahallesi;56
+Çatalca;Yazlık Mahallesi;353
+Çekmeköy;Alemdağ Mahallesi;10046
+Çekmeköy;Çamlık Mahallesi;20265
+Pendik;Çamlık Mahallesi;20858
+Ümraniye;Çamlık Mahallesi;24233
+Çekmeköy;Çatalmeşe Mahallesi;14851
+Çekmeköy;Ekşioğlu Mahallesi;10321
+Çekmeköy;Güngören Mahallesi;12998
+Çekmeköy;Hamidiye Mahallesi;29774
+Kâğıthane;Hamidiye Mahallesi;40778
+Sultanbeyli;Hamidiye Mahallesi;26295
+Çekmeköy;Hüseyinli Mahallesi;849
+Çekmeköy;Kirazlıdere Mahallesi;10809
+Çekmeköy;Koçullu Mahallesi;1398
+Çekmeköy;Mehmet Akif Mahallesi;32848
+Küçükçekmece;Mehmet Akif Mahallesi;52374
+Sultanbeyli;Mehmet Akif Mahallesi;28367
+Ümraniye;Mehmet Akif Mahallesi;26315
+Çekmeköy;Nişantepe Mahallesi;12546
+Çekmeköy;Reşadiye Mahallesi;2887
+Çekmeköy;Sırapınar Mahallesi;1193
+Çekmeköy;Soğukpınar Mahallesi;10520
+Çekmeköy;Sultançiftliği Mahallesi;20457
+Sultangazi;Sultançiftliği Mahallesi;37567
+Çekmeköy;Taşdelen Mahallesi;12508
+Esenler;Atışalanı Mahallesi;33180
+Esenler;Birlik Mahallesi;26141
+Esenler;Çifte Havuzlar Mahallesi;2108
+Esenler;Davutpaşa Mahallesi;15622
+Esenler;Kemer Mahallesi;21571
+Esenler;Menderes Mahallesi;30677
+Esenler;Namık Kemal Mahallesi;15704
+Esenyurt;Namık Kemal Mahallesi;23318
+Ümraniye;Namık Kemal Mahallesi;28517
+Esenler;Nine Hatun Mahallesi;39295
+Esenler;Oruçreis Mahallesi;33595
+Esenler;Tuna Mahallesi;30909
+Esenler;Turgut Reis Mahallesi;43080
+Sultanbeyli;Turgut Reis Mahallesi;19882
+Esenyurt;Akçaburgaz Mahallesi;26608
+Esenyurt;Akşemseddin Mahallesi;7943
+Esenyurt;Ardıçlı Mahallesi;8066
+Esenyurt;Aşık Veysel Mahallesi;15713
+Esenyurt;Balıkyolu Mahallesi;29653
+Esenyurt;Barbaros Hayrettin Paşa Mahallesi;27731
+Gaziosmanpaşa;Barbaros Hayrettin Paşa Mahallesi;47627
+Esenyurt;Battalgazi Mahallesi;17924
+Sultanbeyli;Battalgazi Mahallesi;39618
+Esenyurt;Esenkent Mahallesi;9482
+Maltepe;Esenkent Mahallesi;18361
+Ümraniye;Esenkent Mahallesi;21343
+Esenyurt;Gökevler Mahallesi;16483
+Esenyurt;Güzelyurt Mahallesi;17554
+Esenyurt;İncirtepe Mahallesi;27941
+Esenyurt;Koza Mahallesi;9295
+Esenyurt;Mehterçeşme Mahallesi;37378
+Esenyurt;Necip Fazıl Kısakürek Mahallesi;20160
+Esenyurt;Orhan Gazi Mahallesi;17665
+Esenyurt;Osmangazi Mahallesi;30900
+Sancaktepe;Osmangazi Mahallesi;52856
+Esenyurt;Pınar Mahallesi;42595
+Sarıyer;Pınar Mahallesi;10874
+Esenyurt;Piri Reis Mahallesi;16469
+Esenyurt;Saadetdere Mahallesi;24174
+Esenyurt;Şehitler Mahallesi;16977
+Esenyurt;Selahaddin Eyyubi Mahallesi;29913
+Esenyurt;Süleymaniye Mahallesi;34601
+Fatih;Süleymaniye Mahallesi;640
+Esenyurt;Sultaniye Mahallesi;22249
+Esenyurt;Talatpaşa Mahallesi;28619
+Kâğıthane;Talatpaşa Mahallesi;32931
+Esenyurt;Turgut Özal Mahallesi;27220
+Esenyurt;Üçevler Mahallesi;27280
+Esenyurt;Yenikent Mahallesi;23293
+Eyüpsultan;Ağaçlı Mahallesi;731
+Eyüpsultan;Akpınar Mahallesi;1094
+Sancaktepe;Akpınar Mahallesi;24636
+Eyüpsultan;Akşemsettin Mahallesi;38332
+Fatih;Akşemsettin Mahallesi;18608
+Sultanbeyli;Akşemsettin Mahallesi;13886
+Eyüpsultan;Alibeyköy Mahallesi;13392
+Eyüpsultan;Çiftalan Mahallesi;187
+Eyüpsultan;Çırçır Mahallesi;37557
+Eyüpsultan;Defterdar Mahallesi;4461
+Eyüpsultan;Düğmeciler Mahallesi;17564
+Eyüpsultan;Emniyettepe Mahallesi;10637
+Eyüpsultan;Esentepe Mahallesi;22014
+Kartal;Esentepe Mahallesi;30751
+Şişli;Esentepe Mahallesi;7174
+Sultangazi;Esentepe Mahallesi;63070
+Eyüpsultan;Göktürk Merkez Mahallesi;39235
+Eyüpsultan;Güzeltepe Mahallesi;33653
+Üsküdar;Güzeltepe Mahallesi;13309
+Eyüpsultan;Işıklar Mahallesi;549
+Eyüpsultan;Karadolap Mahallesi;31804
+Eyüpsultan;Mithatpaşa Mahallesi;8909
+Eyüpsultan;Nişancı Mahallesi;15119
+Eyüpsultan;Odayeri Mahallesi;229
+Eyüpsultan;Pirinççi Mahallesi;3409
+Eyüpsultan;Rami Cuma Mahallesi;14715
+Eyüpsultan;Rami Yeni Mahallesi;14824
+Eyüpsultan;Sakarya Mahallesi;10770
+Eyüpsultan;Silahtarağa Mahallesi;10158
+Eyüpsultan;Topçular Mahallesi;5142
+Eyüpsultan;Yeşilpınar Mahallesi;38486
+Fatih;Aksaray Mahallesi;8089
+Fatih;Alemdar Mahallesi;283
+Fatih;Ali Kuşçu Mahallesi;9492
+Fatih;Atikali Mahallesi;13152
+Fatih;Ayvansaray Mahallesi;15200
+Fatih;Balabanağa Mahallesi;208
+Fatih;Balat Mahallesi;10996
+Fatih;Beyazıt Mahallesi;48
+Fatih;Binbirdirek Mahallesi;1312
+Fatih;Cankurtaran Mahallesi;1052
+Fatih;Cerrahpaşa Mahallesi;7490
+Fatih;Cibali Mahallesi;6979
+Fatih;Demirtaş Mahallesi;268
+Fatih;Derviş Ali Mahallesi;16725
+Fatih;Emin Sinan Mahallesi;846
+Fatih;Hacı Kadın Mahallesi;223
+Fatih;Haseki Sultan Mahallesi;8692
+Fatih;Hobyar Mahallesi;89
+Fatih;Hoca Gıyasettin Mahallesi;468
+Fatih;Hocapaşa Mahallesi;287
+Fatih;İskenderpaşa Mahallesi;11316
+Fatih;Kalenderhane Mahallesi;2143
+Fatih;Karagümrük Mahallesi;10253
+Fatih;Katip Kasım Mahallesi;1275
+Fatih;Koca Mustafapaşa Mahallesi;18471
+Fatih;Küçük Ayasofya Mahallesi;1510
+Fatih;Mercan Mahallesi;100
+Fatih;Mesihpaşa Mahallesi;110
+Fatih;Mevlanakapı Mahallesi;17590
+Fatih;Mimar Hayrettin Mahallesi;482
+Fatih;Mimar Kemalettin Mahallesi;243
+Fatih;Molla Fenari Mahallesi;86
+Fatih;Molla Gürani Mahallesi;11611
+Fatih;Molla Hüsrev Mahallesi;937
+Fatih;Muhsine Hatun Mahallesi;1319
+Fatih;Nişanca Mahallesi;4056
+Fatih;Rüstempaşa Mahallesi;23
+Fatih;Saraç İshak Mahallesi;827
+Fatih;Şehremini Mahallesi;19499
+Fatih;Şehsuvar Bey Mahallesi;1750
+Fatih;Seyyid Ömer Mahallesi;23649
+Fatih;Silivrikapı Mahallesi;14926
+Fatih;Sultan Ahmet Mahallesi;470
+Fatih;Sümbül Efendi Mahallesi;15337
+Fatih;Sururi Mahallesi;40
+Fatih;Taya Hatun Mahallesi;85
+Fatih;Topkapı Mahallesi;10288
+Fatih;Yavuz Sinan Mahallesi;251
+Fatih;Yavuz Sultan Selim Mahallesi;15913
+Fatih;Yedikule Mahallesi;15417
+Fatih;Zeyrek Mahallesi;12465
+Gaziosmanpaşa;Bağlarbaşı Mahallesi;28425
+Maltepe;Bağlarbaşı Mahallesi;41242
+Gaziosmanpaşa;Karadeniz Mahallesi;71175
+Gaziosmanpaşa;Karayolları Mahallesi;38738
+Gaziosmanpaşa;Karlıtepe Mahallesi;19021
+Gaziosmanpaşa;Pazariçi Mahallesi;11550
+Gaziosmanpaşa;Sarıgöl Mahallesi;24933
+Gaziosmanpaşa;Şemsipaşa Mahallesi;24656
+Gaziosmanpaşa;Yıldıztabya Mahallesi;23883
+Güngören;Abdurrahman Nafiz Gürman Mahallesi;20864
+Güngören;Akıncılar Mahallesi;18844
+Güngören;Gençosman Mahallesi;41115
+Güngören;Güneştepe Mahallesi;46642
+Güngören;Güven Mahallesi;15026
+Güngören;Haznedar Mahallesi;18782
+Güngören;Mareşal Çakmak Mahallesi;28316
+Güngören;Mehmet Nesih Özmen Mahallesi;8389
+Güngören;Sanayi Mahallesi;11611
+Pendik;Sanayi Mahallesi;2999
+Güngören;Tozkoparan Mahallesi;13387
+Kadıköy;Acıbadem Mahallesi;28600
+Üsküdar;Acıbadem Mahallesi;23385
+Kadıköy;Bostancı Mahallesi;32415
+Kadıköy;Caddebostan Mahallesi;20209
+Kadıköy;Caferağa Mahallesi;21350
+Kadıköy;Dumlupınar Mahallesi;10170
+Pendik;Dumlupınar Mahallesi;27106
+Ümraniye;Dumlupınar Mahallesi;12050
+Kadıköy;Eğitim Mahallesi;12988
+Kadıköy;Erenköy Mahallesi;34438
+Kadıköy;Fenerbahçe Mahallesi;20571
+Kadıköy;Feneryolu Mahallesi;25300
+Kadıköy;Fikirtepe Mahallesi;12305
+Kadıköy;Hasanpaşa Mahallesi;15918
+Sultanbeyli;Hasanpaşa Mahallesi;17403
+Kadıköy;Koşuyolu Mahallesi;6660
+Kadıköy;Kozyatağı Mahallesi;36873
+Kadıköy;Merdivenköy Mahallesi;30620
+Kadıköy;Osmanağa Mahallesi;7497
+Kadıköy;Rasimpaşa Mahallesi;12086
+Kadıköy;Sahrayıcedit Mahallesi;30112
+Kadıköy;Suadiye Mahallesi;25697
+Kadıköy;Zühtüpaşa Mahallesi;7903
+Kâğıthane;Çağlayan Mahallesi;30545
+Kâğıthane;Çeliktepe Mahallesi;31829
+Kâğıthane;Gültepe Mahallesi;13819
+Küçükçekmece;Gültepe Mahallesi;29102
+Kâğıthane;Gürsel Mahallesi;29569
+Kâğıthane;Harmantepe Mahallesi;21137
+Kâğıthane;Nurtepe Mahallesi;26457
+Kâğıthane;Ortabayır Mahallesi;22073
+Kâğıthane;Seyrantepe Mahallesi;23745
+Kâğıthane;Şirintepe Mahallesi;22049
+Kâğıthane;Sultan Selim Mahallesi;35444
+Kâğıthane;Telsizler Mahallesi;11251
+Kâğıthane;Yahya Kemal Mahallesi;16716
+Kâğıthane;Yeşilce Mahallesi;11789
+Kartal;Atalar Mahallesi;31298
+Kartal;Çavuşoğlu Mahallesi;14968
+Kartal;Cevizli Mahallesi;25862
+Maltepe;Cevizli Mahallesi;40777
+Kartal;Karlıktepe Mahallesi;33479
+Kartal;Kordonboyu Mahallesi;12639
+Kartal;Orhantepe Mahallesi;26248
+Kartal;Petrol İş Mahallesi;29166
+Kartal;Soğanlık Yeni Mahallesi;28094
+Kartal;Uğur Mumcu Mahallesi;40138
+Sultangazi;Uğur Mumcu Mahallesi;41299
+Kartal;Yakacık Çarşı Mahallesi;18348
+Kartal;Yakacık Yeni Mahallesi;19509
+Kartal;Yalı Mahallesi;12104
+Maltepe;Yalı Mahallesi;12400
+Kartal;Yukarı Mahallesi;7377
+Kartal;Yunus Mahallesi;14461
+Küçükçekmece;Atakent Mahallesi;105519
+Ümraniye;Atakent Mahallesi;20188
+Küçükçekmece;Beşyol Mahallesi;3638
+Küçükçekmece;Cennet Mahallesi;28720
+Küçükçekmece;Halkalı Merkez Mahallesi;80115
+Küçükçekmece;İstasyon Mahallesi;43148
+Tuzla;İstasyon Mahallesi;26338
+Küçükçekmece;Kanarya Mahallesi;69146
+Küçükçekmece;Söğütlü Çeşme Mahallesi;33564
+Küçükçekmece;Sultan Murat Mahallesi;15551
+Küçükçekmece;Tevfikbey Mahallesi;35312
+Küçükçekmece;Yarımburgaz Mahallesi;8759
+Küçükçekmece;Yeşilova Mahallesi;32433
+Maltepe;Altayçeşme Mahallesi;32397
+Maltepe;Altıntepe Mahallesi;30926
+Maltepe;Aydınevler Mahallesi;21100
+Maltepe;Başıbüyük Mahallesi;26229
+Maltepe;Büyükbakkalköy Mahallesi;11514
+Maltepe;Feyzullah Mahallesi;20217
+Maltepe;Fındıklı Mahallesi;63583
+Maltepe;Girne Mahallesi;19393
+Maltepe;Gülensu Mahallesi;13736
+Maltepe;Gülsuyu Mahallesi;14534
+Maltepe;İdealtepe Mahallesi;24601
+Maltepe;Küçükyalı Merkez Mahallesi;25192
+Maltepe;Zümrütevler Mahallesi;88017
+Pendik;Ahmet Yesevi Mahallesi;30930
+Sultanbeyli;Ahmet Yesevi Mahallesi;29780
+Pendik;Ballıca Mahallesi;582
+Pendik;Batı Mahallesi;13505
+Pendik;Çamçeşme Mahallesi;32025
+Pendik;Çınardere Mahallesi;20956
+Pendik;Doğu Mahallesi;15083
+Pendik;Emirli Mahallesi;252
+Pendik;Ertuğrul Gazi Mahallesi;12468
+Pendik;Esenler Mahallesi;33358
+Pendik;Esenyalı Mahallesi;14025
+Pendik;Göçbeyli Mahallesi;1443
+Pendik;Güllü Bağlar Mahallesi;19001
+Pendik;Güzelyalı Mahallesi;33562
+Pendik;Harmandere Mahallesi;9947
+Pendik;Kavakpınar Mahallesi;65879
+Pendik;Kurna Mahallesi;1154
+Şile;Kurna Mahallesi;289
+Pendik;Kurtdoğmuş Mahallesi;614
+Pendik;Kurtköy Mahallesi;38756
+Pendik;Orhangazi Mahallesi;28088
+Sultanbeyli;Orhangazi Mahallesi;17565
+Pendik;Ramazanoğlu Mahallesi;2427
+Pendik;Sapan Bağları Mahallesi;12396
+Pendik;Şeyhli Mahallesi;19684
+Pendik;Sülüntepe Mahallesi;25520
+Pendik;Velibaba Mahallesi;42389
+Pendik;Yayalar Mahallesi;13555
+Pendik;Yeni Mahallesi;15944
+Sarıyer;Yeni Mahallesi;3260
+Silivri;Yeni Mahallesi;46901
+Pendik;Yeşilbağlar Mahallesi;6925
+Sancaktepe;Abdurrahmangazi Mahallesi;48213
+Sultanbeyli;Abdurrahmangazi Mahallesi;27523
+Sancaktepe;Emek Mahallesi;27327
+Sancaktepe;Eyüp Sultan Mahallesi;23874
+Sancaktepe;Hilal Mahallesi;6071
+Sancaktepe;Kemal Türkler Mahallesi;22554
+Sancaktepe;Meclis Mahallesi;27588
+Sancaktepe;Merve Mahallesi;21319
+Sancaktepe;Paşaköy Mahallesi;1758
+Sancaktepe;Safa Mahallesi;24884
+Sancaktepe;Sarıgazi Mahallesi;23803
+Sancaktepe;Veysel Karani Mahallesi;26644
+Sarıyer;Ayazağa Mahallesi;34606
+Sarıyer;Bahçeköy Kemer Mahallesi;2231
+Sarıyer;Bahçeköy Merkez Mahallesi;3609
+Sarıyer;Baltalimanı Mahallesi;5043
+Sarıyer;Büyükdere Mahallesi;8239
+Sarıyer;Çamlıtepe Mahallesi;5680
+Sarıyer;Çayırbaşı Mahallesi;4690
+Şile;Çayırbaşı Mahallesi;1411
+Sarıyer;Darüşşafaka Mahallesi;8958
+Sarıyer;Demirciköy Mahallesi;1698
+Sarıyer;Emirgan Mahallesi;8052
+Sarıyer;Fatih Sultan Mehmet Mahallesi;15702
+Ümraniye;Fatih Sultan Mehmet Mahallesi;4690
+Sarıyer;Ferahevler Mahallesi;15128
+Sarıyer;Garipçe Mahallesi;370
+Sarıyer;Gümüşdere Mahallesi;2519
+Sarıyer;Huzur Mahallesi;8195
+Ümraniye;Huzur Mahallesi;12101
+Sarıyer;İstinye Mahallesi;15574
+Sarıyer;Kazım Karabekir Paşa Mahallesi;7787
+Sarıyer;Kireçburnu Mahallesi;6592
+Sarıyer;Kısırkaya Mahallesi;378
+Sarıyer;Kocataş Mahallesi;4492
+Sarıyer;Kumköy (Kilyos) Mahallesi;3940
+Sarıyer;Maslak Mahallesi;13153
+Sarıyer;Poligon Mahallesi;6225
+Sarıyer;PTT Evleri Mahallesi;5213
+Sarıyer;Reşitpaşa Mahallesi;16014
+Sarıyer;Rumelifeneri Mahallesi;4074
+Sarıyer;Rumelihisarı Mahallesi;9244
+Sarıyer;Rumelikavağı Mahallesi;3560
+Sarıyer;Sarıyer Merkez Mahallesi;11571
+Sarıyer;Tarabya Mahallesi;17598
+Sarıyer;Uskumruköy Mahallesi;10197
+Sarıyer;Zekeriyaköy Mahallesi;23549
+Şile;Ağaçdere Mahallesi;123
+Şile;Ağva Merkez Mahallesi;2190
+Şile;Ahmetli Mahallesi;3330
+Şile;Akçakese Mahallesi;519
+Şile;Alacalı Mahallesi;679
+Şile;Avcıkoru Mahallesi;143
+Şile;Balibey Mahallesi;4034
+Şile;Bıçkıdere Mahallesi;372
+Şile;Bozgoca Mahallesi;124
+Şile;Bucaklı Mahallesi;393
+Şile;Çataklı Mahallesi;245
+Şile;Çavuş Mahallesi;12836
+Şile;Çelebi Mahallesi;266
+Şile;Çengilli Mahallesi;222
+Şile;Darlık Mahallesi;185
+Şile;Doğancılı Mahallesi;898
+Şile;Erenler Mahallesi;138
+Şile;Esenceli Mahallesi;100
+Şile;Geredeli Mahallesi;745
+Şile;Göçe Mahallesi;853
+Şile;Gökmaşlı Mahallesi;229
+Şile;Hacı Kasım Mahallesi;1070
+Şile;Hacıllı Mahallesi;280
+Şile;Hasanlı Mahallesi;298
+Şile;İmrendere Mahallesi;453
+Şile;İmrenli Mahallesi;408
+Şile;İsaköy Mahallesi;280
+Şile;Kabakoz Mahallesi;791
+Şile;Kadıköy Mahallesi;280
+Silivri;Kadıköy Mahallesi;1412
+Şile;Kalem Mahallesi;362
+Şile;Karabeyli Mahallesi;247
+Şile;Karacaköy Mahallesi;355
+Şile;Karakiraz Mahallesi;313
+Şile;Kervansaray Mahallesi;471
+Şile;Kömürlük Mahallesi;245
+Şile;Korucu Mahallesi;247
+Şile;Kumbaba Mahallesi;1634
+Şile;Kurfallı Mahallesi;346
+Silivri;Kurfallı Mahallesi;537
+Şile;Meşrutiyet Mahallesi;2257
+Şişli;Meşrutiyet Mahallesi;7040
+Şile;Oruçoğlu Mahallesi;458
+Şile;Osmanköy Mahallesi;300
+Şile;Ovacık Mahallesi;173
+Şile;Sahilköy Mahallesi;1068
+Şile;Satmazlı Mahallesi;544
+Şile;Sofular Mahallesi;333
+Şile;Soğullu Mahallesi;196
+Şile;Sortullu Mahallesi;158
+Şile;Şuayipli Mahallesi;303
+Şile;Teke Mahallesi;521
+Şile;Ulupelit Mahallesi;228
+Şile;Üvezli Mahallesi;568
+Şile;Yaka Mahallesi;354
+Şile;Yaylalı Mahallesi;73
+Şile;Yazımanayır Mahallesi;201
+Şile;Yeşilvadi Mahallesi;317
+Silivri;Akören Mahallesi;1404
+Silivri;Alibey Mahallesi;17287
+Silivri;Alipaşa Mahallesi;1012
+Silivri;Bekirli Mahallesi;222
+Silivri;Beyciler Mahallesi;1394
+Silivri;Büyük Çavuşlu Mahallesi;3250
+Silivri;Büyük Kılıçlı Mahallesi;1276
+Silivri;Büyük Sinekli Mahallesi;416
+Silivri;Çanta Balaban Mahallesi;4578
+Silivri;Çanta Sancaktepe Mahallesi;6363
+Silivri;Çayırdere Mahallesi;1420
+Silivri;Çeltik Mahallesi;1068
+Silivri;Danamandıra Mahallesi;1115
+Silivri;Değirmenköy Fevzipaşa Mahallesi;3623
+Silivri;Değirmenköy İsmetpaşa Mahallesi;3411
+Silivri;Fener Mahallesi;1484
+Silivri;Gazitepe Mahallesi;1231
+Silivri;Gümüşyaka Mahallesi;9711
+Silivri;Kavaklı Hürriyet Mahallesi;1756
+Silivri;Kavaklı İstiklal Mahallesi;2019
+Silivri;Küçük Kılıçlı Mahallesi;320
+Silivri;Küçük Sinekli Mahallesi;140
+Silivri;Piri Mehmet Paşa Mahallesi;7902
+Silivri;Sayalar Mahallesi;897
+Silivri;Selimpaşa Mahallesi;24664
+Silivri;Semizkumlar Mahallesi;34187
+Silivri;Seymen Mahallesi;1032
+Silivri;Yolçatı Mahallesi;392
+Şişli;Bozkurt Mahallesi;9736
+Şişli;Duatepe Mahallesi;7542
+Şişli;Ergenekon Mahallesi;2253
+Şişli;Eskişehir Mahallesi;11247
+Şişli;Feriköy Mahallesi;13458
+Şişli;Fulya Mahallesi;16416
+Şişli;Gülbahar Mahallesi;22983
+Şişli;Halaskargazi Mahallesi;1607
+Şişli;Halide Edip Adıvar Mahallesi;16632
+Şişli;Halil Rıfat Paşa Mahallesi;6729
+Şişli;Harbiye Mahallesi;2339
+Şişli;Kuştepe Mahallesi;15339
+Şişli;Mahmut Şevket Paşa Mahallesi;17999
+Şişli;Mecidiyeköy Mahallesi;18926
+Şişli;Paşa Mahallesi;18833
+Şişli;Teşvikiye Mahallesi;10631
+Şişli;Yayla Mahallesi;11269
+Sultangazi;Yayla Mahallesi;7963
+Tuzla;Yayla Mahallesi;30538
+Sultanbeyli;Adil Mahallesi;36062
+Sultanbeyli;Necip Fazıl Mahallesi;22951
+Ümraniye;Necip Fazıl Mahallesi;28856
+Sultangazi;50. Yıl Mahallesi;69818
+Sultangazi;75. Yıl Mahallesi;31726
+Sultangazi;Cebeci Mahallesi;59635
+Sultangazi;Eski Habipler Mahallesi;13811
+Sultangazi;Gazi Mahallesi;34866
+Sultangazi;Habibler Mahallesi;7988
+Sultangazi;İsmetpaşa Mahallesi;54197
+Sultangazi;Malkoçoğlu Mahallesi;13077
+Sultangazi;Zübeyde Hanım Mahallesi;31350
+Tuzla;Akfırat Mahallesi;2868
+Tuzla;Aydınlı Mahallesi;72942
+Tuzla;Aydıntepe Mahallesi;27173
+Tuzla;Cami Mahallesi;5996
+Tuzla;İçmeler Mahallesi;11427
+Tuzla;Mescit Mahallesi;5227
+Tuzla;Orhanlı Mahallesi;1933
+Tuzla;Postane Mahallesi;21328
+Tuzla;Şifa Mahallesi;32095
+Tuzla;Tepeören Mahallesi;7185
+Ümraniye;Adem Yavuz Mahallesi;16756
+Ümraniye;Armağanevler Mahallesi;39743
+Ümraniye;Aşağı Dudullu Mahallesi;15124
+Ümraniye;Çakmak Mahallesi;38141
+Ümraniye;Cemil Meriç Mahallesi;21788
+Ümraniye;Elmalıkent Mahallesi;22295
+Ümraniye;Esenevler Mahallesi;26204
+Ümraniye;Esenşehir Mahallesi;20595
+Ümraniye;Finanskent Mahallesi;8450
+Ümraniye;Hekimbaşı Mahallesi;7411
+Ümraniye;Ihlamurkuyu Mahallesi;15771
+Ümraniye;İnkılap Mahallesi;36091
+Ümraniye;Madenler Mahallesi;15930
+Ümraniye;Parseller Mahallesi;15874
+Ümraniye;Şerifali Mahallesi;9495
+Ümraniye;Site Mahallesi;21574
+Ümraniye;Tantavi Mahallesi;11820
+Ümraniye;Tatlısu Mahallesi;23294
+Ümraniye;Tepeüstü Mahallesi;13349
+Ümraniye;Topağacı Mahallesi;13693
+Ümraniye;Yamanevler Mahallesi;18304
+Ümraniye;Yukarı Dudullu Mahallesi;21482
+Üsküdar;Altunizade Mahallesi;12129
+Üsküdar;Aziz Mahmut Hüdayi Mahallesi;8246
+Üsküdar;Beylerbeyi Mahallesi;5106
+Üsküdar;Bulgurlu Mahallesi;30494
+Üsküdar;Burhaniye Mahallesi;16290
+Üsküdar;Çengelköy Mahallesi;13447
+Üsküdar;Ferah Mahallesi;21661
+Üsküdar;İcadiye Mahallesi;15624
+Üsküdar;Kandilli Mahallesi;1398
+Üsküdar;Kirazlıtepe Mahallesi;9060
+Üsküdar;Kısıklı Mahallesi;20195
+Üsküdar;Küçük Çamlıca Mahallesi;11066
+Üsküdar;Küçüksu Mahallesi;18345
+Üsküdar;Kuleli Mahallesi;4092
+Üsküdar;Küplüce Mahallesi;16782
+Üsküdar;Kuzguncuk Mahallesi;3906
+Üsküdar;Muratreis Mahallesi;13558
+Üsküdar;Salacak Mahallesi;9358
+Üsküdar;Selami Ali Mahallesi;13101
+Üsküdar;Selimiye Mahallesi;7922
+Üsküdar;Sultantepe Mahallesi;10647
+Üsküdar;Ünalan Mahallesi;34746
+Üsküdar;Yavuztürk Mahallesi;31227
+Üsküdar;Zeynep Kamil Mahallesi;11765
+Zeytinburnu;Beştelsiz Mahallesi;20761
+Zeytinburnu;Çırpıcı Mahallesi;25915
+Zeytinburnu;Gökalp Mahallesi;18543
+Zeytinburnu;Kazlıçeşme Mahallesi;5240
+Zeytinburnu;Maltepe Mahallesi;9948
+Zeytinburnu;Merkezefendi Mahallesi;23894
+Zeytinburnu;Nuripaşa Mahallesi;26343
+Zeytinburnu;Seyitnizam Mahallesi;22028
+Zeytinburnu;Sümer Mahallesi;38071
+Zeytinburnu;Telsiz Mahallesi;33905
+Zeytinburnu;Veliefendi Mahallesi;24431
+Zeytinburnu;Yeşiltepe Mahallesi;19633
+Sarıyer;Bahçeköy Yeni Mahalle;4968
+Şile;Değirmen Çayırı Mahallesi;604
+Kâğıthane;Emniyetevleri Mahallesi;8457
+Fatih;Hırka-i Şerif Mahallesi;20257
+Beyoğlu;Kadı Mehmet Efendi Mahallesi;8957
+Beyoğlu;Katip Mustafa Çelebi Mahallesi;728
+Beyoğlu;Kemankeş Karamustafa Paşa Mahallesi;115
+Şile;Kızılcaköy Mahallesi;696
+Beyoğlu;Müeyyedzade Mahallesi;465
+Beyoğlu;Piri Paşa Mahallesi;15376
+Kartal;Topselvi Mahalesi;12580
+Üsküdar;Valide-i Atik Mahallesi;19895
+Şişli;İzzetpaşa Mahallesi;7595
+Eyüpsultan;5. Levent Mahallesi;12279
